@@ -50,3 +50,17 @@
 ### Financial documents
 ---
 
+## *10 Startup Financing Models to Fund Your Small Business*
+- Starting with personal financing and credit lines
+- Reaching out to friends and family
+- Applying for a business loan
+- Catching the attention of an angel investor
+- Pitching your startup to venture capitalists
+- Hosting a crowdfunding campaign
+- Joining a startup incubator
+- Seeking out government grants and subsidies
+- Applying for microlending
+- Collecting pledges from peer-to-peer lending
+
+---
+
