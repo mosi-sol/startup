@@ -40,3 +40,13 @@
 ### Build a Customer Base
 
 ### Plan to Change
+
+---
+## *Main Components of a Business Plan*
+### Executive summary 
+### Business description and structure 
+### Market research and strategies 
+### Management and personnel 
+### Financial documents
+---
+
