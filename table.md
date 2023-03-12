@@ -1,5 +1,6 @@
 # startup
-documents
+*documents*
+---
 
 #### Expansion Strategy for Startups:
 |||
@@ -8,6 +9,8 @@ documents
 | Identifying a Value Proposition | Establishing Long-Term Goals for Your Startup | 
 | Picking a Location With Growth Potential | Building a Startup Team | 
 | Develop a Startup Growth Plan ||
+
+#
 
 #### How to Start a Startup:
 |||
@@ -18,12 +21,16 @@ documents
 | Develop a Marketing Plan | Build a Customer Base | 
 | Plan to Change | |
 
+#
+
 #### Main Components of a Business Plan:
 |||
 |---- | ---- |
 | Executive summary | Business description and structure | 
 | Market research and strategies | Management and personnel | 
 | Financial documents | |
+
+#
 
 #### 10 Startup Financing Models to Fund Your Small Business:
 |||
