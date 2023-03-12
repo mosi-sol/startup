@@ -1,5 +1,6 @@
 # startup
 *documents*
+
 ---
 
 #### Expansion Strategy for Startups:
