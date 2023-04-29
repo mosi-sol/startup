@@ -13,3 +13,5 @@ A Title
 - Slide 11: **Conclusion**
 
 Some information and website , etc
+
+> Note: Maximum time for full present to investor, customer, new co-workers is limited to 30 min. So each slide average 2.5 min for introduce.
