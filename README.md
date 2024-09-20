@@ -1,5 +1,5 @@
 # startup
-**documents**
+**documents** & complete details for these titles: [here](https://github.com/mosi-sol/startup/blob/main/informative-details.md)
 
 ---
 
