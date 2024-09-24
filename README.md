@@ -48,4 +48,10 @@
 
 ---
 
+# VC funds
+- direct funds from investor(s)
+- fund of funds (from mant investors in the pool or direct several investors)
+
+---
+
 Note: search titles for information & how to
